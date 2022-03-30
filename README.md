@@ -1,6 +1,6 @@
 ### Hi I'm @keatonstrawn
-## I am a Linguistics and Computer Science student from Los Angeles, CA currently studying in Seattle, WA
-## I am interested in computational linguistics, natural language processing, and data science
+I am a Linguistics and Computer Science student from Los Angeles, CA currently studying in Seattle, WA
+I am interested in computational linguistics, natural language processing, and data science
 
 <!--
 **keatonstrawn/keatonstrawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
