@@ -1,5 +1,5 @@
 ### Hi I'm @keatonstrawn
-I am a Linguistics and Computer Science student from Los Angeles, CA currently studying in Seattle, WA
+I am a Linguistics and Computer Science student from Los Angeles, CA currently studying in Seattle, WA </n>
 I am interested in computational linguistics, natural language processing, and data science
 
 <!--
