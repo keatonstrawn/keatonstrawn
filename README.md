@@ -1,6 +1,6 @@
 ### Hi I'm @keatonstrawn
-<p>Master of Science Candidate in Computational Linguistics</p>
-<p>Interested in computational linguistics, natural language processing, ML/AI engineering, and data science</p>
+<p>Master of Science Candidate in Computational Linguistics at the University of Washington</p>
+<p>Interested in natural language processing, ML/AI engineering, and data science</p>
 
 <!--
 **keatonstrawn/keatonstrawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
